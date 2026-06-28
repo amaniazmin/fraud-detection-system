@@ -11,8 +11,8 @@
 ## 🔗 Live Links
 | Resource | Link |
 |---|---|
-| 🌐 Live Dashboard | Coming soon |
-| 📖 API Documentation | Coming soon |
+| 🌐 Live Dashboard | [Click Here](https://cc-fraud-detection-amani.streamlit.app) |
+| 📖 API Documentation | [Click Here](https://fraud-detection-api-pey6.onrender.com/docs) |
 | 📊 GitHub Actions | [CI/CD Pipeline](https://github.com/amaniazmin/fraud-detection-system/actions) |
 
 ## 🎯 Project Overview
