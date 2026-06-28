@@ -188,8 +188,7 @@ with st.sidebar:
     """)
     st.markdown("---")
     st.markdown("Built by **Amani Azmin**")
-    st.markdown("[GitHub](https://github.com/amaniazmin) | [API Docs](http://127.0.0.1:8000/docs)")
-
+st.markdown("[GitHub](https://github.com/amaniazmin) | [API Docs](https://fraud-detection-api-pey6.onrender.com/docs)")
 
 # ============================================================
 # MAIN PAGE
